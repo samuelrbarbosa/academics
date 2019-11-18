@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/tags/</loc>
+  </url>
+  
+</urlset>

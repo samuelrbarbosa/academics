@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/post/first/</loc>
+    <lastmod>2019-11-18T19:23:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/</loc>
+    <lastmod>2019-11-18T19:23:46-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://samuelrbarbosa.github.io/academic/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelrbarbosa.github.io/academic/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/post/</loc>
+    <lastmod>2019-11-18T19:23:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://samuelrbarbosa.github.io/academic/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelrbarbosa.github.io/academic/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://samuelrbarbosa.github.io/academic/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelrbarbosa.github.io/academic/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samuelrbarbosa.github.io/academic/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://samuelrbarbosa.github.io/academic/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samuelrbarbosa.github.io/academic/tags/"
+                />
+  </url>
+  
+</urlset>
